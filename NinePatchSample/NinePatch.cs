@@ -20,7 +20,7 @@ namespace  NinePatchSample
     /// Image newImage = ninePatch.ImageSizeOf(500, 500) // 500x500に引き伸ばした画像を取得
     /// 
     /// </summary>
-    class NinePatch
+    public class NinePatch
     {
         /// <summary>
         /// 上下左右1ピクセル付の9-patch画像
